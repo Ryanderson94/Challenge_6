@@ -28,7 +28,7 @@ run pip install -r requirements.txt
 1. Navigate to the directory in either the Terminal or GitBash. 
 
 2. From the top folder (Challenge_6), launch jupyter lab by typing 'jupyter lab' into Terminal or Gitbash and pressing 'Enter'
-<img width="498" alt="Screen Shot 2022-04-10 at 7 21 15 PM" src="https://user-images.githubusercontent.com/98444459/162644238-051cd580-bf09-4bc9-9b77-1b495632f4c1.png">
+<img width="407" alt="Screen Shot 2022-05-01 at 5 57 16 PM" src="https://user-images.githubusercontent.com/98444459/166166172-a3c23075-1fad-44cb-b20f-c4ae3f945c94.png">
 
 3. Open the 'san_francisco_housing.ipynb' notebook and follow the instructions therein.  
 <img width="355" alt="Screen Shot 2022-05-01 at 5 55 35 PM" src="https://user-images.githubusercontent.com/98444459/166166117-60b66ecd-3ea7-4a23-ae01-83d188e4bd1c.png">
