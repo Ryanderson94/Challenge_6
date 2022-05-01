@@ -1,4 +1,6 @@
-# Challenge_6
+# Housing Rental Analysis for San Francisco
+
+in the applicaiton, we perform an analysis on the housing market in San Francisco by evaluating trends in price per square foot and gross rent by neighborhood from 2010 to 2016. Using a combination of data analytics and visualizations, the application seeks to determine areas to maximize real estate investment by purchasing and renting out the property. The summary of findings, as well as assumptions can be found at the end of the application.
 
 ---
 
