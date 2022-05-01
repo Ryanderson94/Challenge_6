@@ -31,7 +31,7 @@ run pip install -r requirements.txt
 <img width="498" alt="Screen Shot 2022-04-10 at 7 21 15 PM" src="https://user-images.githubusercontent.com/98444459/162644238-051cd580-bf09-4bc9-9b77-1b495632f4c1.png">
 
 3. Open the 'san_francisco_housing.ipynb' notebook and follow the instructions therein.  
-<img width="299" alt="Screen Shot 2022-04-24 at 7 49 14 PM" src="https://user-images.githubusercontent.com/98444459/165001822-7557d950-a365-4ebf-896d-933e17a4fcf4.png">
+<img width="355" alt="Screen Shot 2022-05-01 at 5 55 35 PM" src="https://user-images.githubusercontent.com/98444459/166166117-60b66ecd-3ea7-4a23-ae01-83d188e4bd1c.png">
 
 ---
 
