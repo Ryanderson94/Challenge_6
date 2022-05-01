@@ -21,26 +21,17 @@ run pip install -r requirements.txt
 
 3. If you receive errors, please review the dependencies above, install them and try again. 
 
-4. Set up an Alpacas account by navigating to https://app.alpaca.markets/signup. 
-<img width="526" alt="Screen Shot 2022-04-24 at 7 41 59 PM" src="https://user-images.githubusercontent.com/98444459/165001577-2543dfa3-2d40-4030-9f69-ad4b81db11c1.png">
-
 ---
 
 ## Usage
 
 1. Navigate to the directory in either the Terminal or GitBash. 
 
-2. From the top folder (Challenge_5), launch jupyter lab by typing 'jupyter lab' into Terminal or Gitbash and pressing 'Enter'
+2. From the top folder (Challenge_6), launch jupyter lab by typing 'jupyter lab' into Terminal or Gitbash and pressing 'Enter'
 <img width="498" alt="Screen Shot 2022-04-10 at 7 21 15 PM" src="https://user-images.githubusercontent.com/98444459/162644238-051cd580-bf09-4bc9-9b77-1b495632f4c1.png">
 
-3. Open the 'financial_planning_tools.ipynb' notebook and follow the instructions therein.  
+3. Open the 'san_francisco_housing.ipynb' notebook and follow the instructions therein.  
 <img width="299" alt="Screen Shot 2022-04-24 at 7 49 14 PM" src="https://user-images.githubusercontent.com/98444459/165001822-7557d950-a365-4ebf-896d-933e17a4fcf4.png">
-
-4. Obtain your API Key and API Secret Key from Alpacas
-<img width="305" alt="Screen Shot 2022-04-24 at 7 45 24 PM" src="https://user-images.githubusercontent.com/98444459/165001976-d26f6993-a6e0-4dd1-a992-13596913acb9.png">
-
-5. Create a .env file (you can name it api.env to mirror the .env file used in this program) in which to store your API Key and API Secret Keys from Alpacas. 
-<img width="965" alt="Screen Shot 2022-04-24 at 7 52 12 PM" src="https://user-images.githubusercontent.com/98444459/165001945-9cc12442-8b66-4157-bd87-c1f60682380c.png">
 
 ---
 
